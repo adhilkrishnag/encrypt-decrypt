@@ -1,4 +1,4 @@
-const CACHE_NAME = "cryptocache-v4";
+const CACHE_NAME = "cryptocache-v2";
 const urlsToCache = [
   "/encrypt-decrypt/",  
   "/encrypt-decrypt/index.html",
