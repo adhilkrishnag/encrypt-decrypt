@@ -1,10 +1,10 @@
-const CACHE_NAME = "cryptocache-v3";
+const CACHE_NAME = "cryptocache-v4";
 const urlsToCache = [
-  "/",  
-  "/index.html",
-  "/main.dart.js",
-  "/flutter.js",
-  "/favicon.png", // Example asset (Make sure it exists)
+  "/encrypt-decrypt/",  
+  "/encrypt-decrypt/index.html",
+  "/encrypt-decrypt/main.dart.js",
+  "/encrypt-decrypt/flutter.js",
+  "/encrypt-decrypt/favicon.png", // Example asset (Make sure it exists)
 ];
 
 // Install event
